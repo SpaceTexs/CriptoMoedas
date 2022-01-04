@@ -10,7 +10,7 @@ class MeuAplicativo extends StatelessWidget {
       title: 'Cripto Moedas',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.indigo,
       ),
       home: MoedasPage(),
     );
