@@ -1,7 +1,6 @@
+import 'package:cripto_moedas/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:cripto_moedas/pages/moedas_page.dart';
-
-import 'pages/home_page.dart';
 
 class MeuAplicativo extends StatelessWidget {
   const MeuAplicativo({Key? key}) : super(key: key);
